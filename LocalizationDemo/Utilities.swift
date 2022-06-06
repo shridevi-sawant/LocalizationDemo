@@ -8,6 +8,6 @@
 import Foundation
 
 func add(a: Int, b: Int) -> Int {
-    
+    print("addition \(a) + \(b) = \(a+b)")
     return a + b
 }
